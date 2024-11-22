@@ -11,6 +11,6 @@ children:
   - title: publications
     permalink: /publications/
   - title: divider
-  - title: notes & projects
-    permalink: /notes & projects/
+  - title: projects
+    permalink: /projects/
 ---
