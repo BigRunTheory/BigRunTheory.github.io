@@ -24,4 +24,4 @@ During my Ph.D. study, my research interests mainly focused on devevloping **dis
 
 Before pursuing my Ph.D. degree, I obatined my B.S. degree from [University of Science and Technology of China](http://en.ustc.edu.cn/), majoring in Theoretical Physics.
 
-I am also a lifelong follower of **Buddha's teaching**.
+I am also a lifelong follower of ***Buddha's teaching***.
