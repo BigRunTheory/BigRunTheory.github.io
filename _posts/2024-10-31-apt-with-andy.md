@@ -2,9 +2,10 @@
 layout: post
 title: APT with Andy！
 date: 2024-10-31 21:00:00
-description: 万圣节和安迪哥哥一起跳APT
+description: 记录万圣节和安迪哥哥一起跳APT
 tags: video
 categories: log
+thumbnail: assets/img/SF_food.jpg
 ---
 
 <div class="row mt-3">
