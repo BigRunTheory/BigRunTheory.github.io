@@ -18,6 +18,6 @@ thumbnail: assets/img/SF_food.JPG
 2024年万圣节：我们一起跳了APT. ~^^~
 <div class="row mt-3">
     <div class="col-md-6 col-sm-12 mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/tutorial_al_folio.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+        {% include video.liquid path="assets/APT.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
