@@ -134,7 +134,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: 陈大润的小世界 # blog_name will be displayed in your blog page
-blog_description: Welcome to Big Run's little world!
+blog_description: Welcome to Big Run's Little World!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
