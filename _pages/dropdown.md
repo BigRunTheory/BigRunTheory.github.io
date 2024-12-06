@@ -9,7 +9,7 @@ children:
     permalink: /blog/
   - title: divider
   - title: Buddha's teaching
-    permalink: /sharing/
+    permalink: /teaching/
   - title: divider
   - title: publications
     permalink: /publications/
