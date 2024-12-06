@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Buddha's teaching
-description:Buddha's Teaching
+description: Buddha's Teaching
 nav: true
 nav_order: 2
 ---
