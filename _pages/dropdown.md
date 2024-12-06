@@ -8,6 +8,9 @@ children:
   - title: blog
     permalink: /blog/
   - title: divider
+  - title: Buddha's teaching
+    permalink: /Buddhism/
+  - title: divider
   - title: publications
     permalink: /publications/
   - title: divider
