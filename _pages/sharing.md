@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: Buddha's teaching
@@ -64,4 +63,4 @@ horizontal: true
   {% endif %}
 {% endif %}
 </div>
-
+---
