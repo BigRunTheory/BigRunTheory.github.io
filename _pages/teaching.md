@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Buddha's teaching
-permalink: /sharing/
+permalink: /teaching/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 2
