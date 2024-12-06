@@ -182,7 +182,7 @@ external_sources:
 
 blog_name: 陳大潤的小世界 # blog_name will be displayed in your blog page
 blog_description: Welcome to Big Run's Little World!
-permalink: /Buddhism/:year/:title/
+permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
 # Pagination
