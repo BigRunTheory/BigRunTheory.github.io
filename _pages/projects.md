@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Buddha's teaching
-permalink: /projects/
+permalink: /Buddha's teaching/
 description: A growing collection of your cool projects.
 nav: true
-nav_order: 4
+nav_order: 2
 display_categories: [work, fun]
 horizontal: true
 ---
