@@ -2,7 +2,7 @@
 layout: page
 title: Buddha's teaching
 permalink: /teaching/
-description: A growing collection of your cool projects.
+description: A place where I share with you Buddha's teaching that I follow.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
