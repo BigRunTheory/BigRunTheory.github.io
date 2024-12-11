@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Buddha's teaching
+title: 陳大潤的佛學小課堂
 permalink: /teaching/
 description: 「提昇人的品質，建設人間淨土。」--聖嚴法師
 nav: true
