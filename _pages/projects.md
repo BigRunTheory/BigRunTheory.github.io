@@ -2,7 +2,7 @@
 layout: page
 title: Buddha's teaching
 permalink: /teaching/
-description: 「提昇人的品質，建設人間淨土。」 -- 聖嚴法師
+description: 「知道萬事皆空，所以爭分奪秒。」 -- 聖嚴法師
 nav: true
 nav_order: 2
 display_categories: [佛教知識, 佛教歷史, 法相唯識]
