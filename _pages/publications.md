@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications, notes and useful links
+description: selected publications, notes and useful links
 nav: true
 nav_order: 3
 ---
