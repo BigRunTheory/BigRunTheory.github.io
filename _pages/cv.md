@@ -2,10 +2,10 @@
 layout: cv
 permalink: /cv/
 title: cv
-nav: false
-nav_order: 6
-cv_pdf: example_pdf.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+nav: true
+nav_order: 1
+cv_pdf: Resume_Run Chen.pdf
+description: Thank you for taking the time to check out my profile! For more details, please click the PDF button.
 toc:
   sidebar: left
 ---

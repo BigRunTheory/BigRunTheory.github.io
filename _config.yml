@@ -133,7 +133,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 陳大潤的小世界 # blog_name will be displayed in your blog page
+blog_name: Big Run Theory # blog_name will be displayed in your blog page
 blog_description: Welcome to Big Run's Little World!
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -638,13 +638,13 @@ jekyll_get_json:
 jsonresume:
   - basics
   - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
+#  - education
+#  - publications
+#  - projects
+#  - volunteer
+#  - awards
   - certificates
   - skills
   - languages
-  - interests
-  - references
+#  - interests
+#  - references
