@@ -22,6 +22,6 @@ I obtained my Ph.D. degree from **[School of Industrial Engineering](http://engi
 
 During my Ph.D. study, my research interests mainly focused on devevloping **distributed algorithms** for solving **large-scale optimization problems** with applicaitons to machine learning models and energy systems. For my latest works, please refer to my ***[publications page](https://bigruntheory.github.io/publications/)***.
 
-Before pursuing my Ph.D. degree, I obatined my B.S. degree from **[University of Science and Technology of China](http://en.ustc.edu.cn/)**, majoring in **Theoretical Physics**.
+Before pursuing my Ph.D. degree, I obatined my B.S. degree from **[University of Science and Technology of China](http://en.ustc.edu.cn/)**, majoring in **Physics**.
 
 I am also a lifelong follower of ***[Buddha's teaching](https://bigruntheory.github.io/teaching/)***.
