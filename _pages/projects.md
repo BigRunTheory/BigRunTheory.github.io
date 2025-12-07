@@ -1,12 +1,12 @@
 ---
 layout: page
-title: projects
-permalink: /projects/
-description: A growing collection of your cool projects.
+title: Buddha's teaching
+permalink: /teaching/
+description: to be continued...
 nav: true
-nav_order: 3
-display_categories: [work, fun]
-horizontal: false
+nav_order: 5
+display_categories: [佛教歷史, 佛教知識, 法相唯識, 中國古代哲學]
+horizontal: true
 ---
 
 <!-- pages/projects.md -->

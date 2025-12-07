@@ -1,14 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - BigRunTheory
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - BigRunTheory/BigRunTheory.github.io
+  - BigRunTheory/A-Distributed-Algorithm-for-Large-scale-Convex-QCQPs
+  - BigRunTheory/TelegramChatbot
+  
